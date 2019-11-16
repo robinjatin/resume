@@ -1,3 +1,41 @@
+.i8{
+border-radius: 30%;
+position:absolute;
+height:40;
+width:60;
+}
+.i7{
+border-radius: 30%;
+position:absolute;
+height:40;
+width:60;
+}
+.i6{
+border-radius: 30%;
+position:absolute;
+height:40;
+width:60;
+}
+.i5{
+border-radius: 30%;
+position:absolute;
+height:40;
+width:60;
+}
+.i4{
+border-radius: 30%;
+position:absolute;
+right:30%
+height:50;
+width:60;
+}
+.i3{
+border-radius: 30%;
+position:absolute;
+right:30%
+height:50;
+width:60;
+}
 .i2{
 border-radius: 50%;
 height:400;
@@ -18,24 +56,24 @@ text-color:golden;
 h2{
 font-family:Calibri;
 }
-p{
+.p1{
 font-family:Calibri;
+
 }
 .vl2{
-
-background-image: linear-gradient(to left,aquamarine,bisque);
-height: 1250px;
+background-image: url("paisley-background.jpg");
+height: 1150px;
 position:absolute;
 top:0;
 left:0;
 }
 .vl {
   border-left: 3px solid black;
-  height: 1250px;
+  height: 1150px;
   position:absolute;
-  left: 30.2%;
+  left: 31.1%;
   top:0;
-  background-image: linear-gradient(to left,darksalmon,darkseagreen);
+  background-image: url("istockphoto-501932644-612x612.jpg");
 }
 table {
   font-family: arial, sans-serif;
