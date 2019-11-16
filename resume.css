@@ -1,5 +1,13 @@
-i1{
+.i2{
 border-radius: 50%;
+height:400;
+width:400;
+
+}
+.i1{
+border-radius: 50%;
+height:50;
+width:100;
 }
 h4{
 text-align:right;
@@ -14,15 +22,18 @@ p{
 font-family:Calibri;
 }
 .vl2{
+
 background-image: linear-gradient(to left,aquamarine,bisque);
 height: 1200px;
- top:0;
+position:absolute;
+top:0;
+left:0;
 }
 .vl {
   border-left: 3px solid black;
   height: 1200px;
   position:absolute;
-  left: 37%;
+  left: 30.2%;
   top:0;
   background-image: linear-gradient(to left,darksalmon,darkseagreen);
 }
