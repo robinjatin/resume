@@ -68,7 +68,7 @@ top:0;
 left:0;
 }
 .vl {
-  border-left: 3px solid black;
+  border-left: 1px solid black;
   height: 1215px;
   position:absolute;
   left: 31.1%;
@@ -81,18 +81,17 @@ table {
   width: 100%;
 }
 th{
- border: 3px solid black;
+ border: 1px solid black;
   text-align: center;
   padding: 8px;
   background-color:#9a8478;
 }
 td{
- border: 3px solid black;
+ border: 1px solid black;
   text-align: center;
   padding: 8px;
   
 }
-
 tr:nth-child(even) {
   background-image: linear-gradient(to right,#abbaab,#eef2f3);
 }
