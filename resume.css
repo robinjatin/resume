@@ -1,5 +1,5 @@
 body{
-background-color:black;
+background-image: url("paisley-background.jpg");
 }
 .i8{
 border-radius: 30%;
@@ -74,7 +74,7 @@ left:0;
   border-left: 1px solid black;
   height: 1215px;
   position:absolute;
-  left: 30.2%;
+  left: 35%;
   top:0;
   background-image: url("a75e2cff4703251acdc4eda9e0f36fba.jpg");
 }
