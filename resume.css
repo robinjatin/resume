@@ -1,6 +1,9 @@
 body{
 background-image: url("paisley-background.jpg");
 }
+a{
+color:#240b36;
+}
 .i8{
 border-radius: 30%;
 position:absolute;
@@ -72,7 +75,7 @@ left:0;
 }
 .vl {
   border-left: 1px solid black;
-  height: 1215px;
+  height: 1240px;
   position:absolute;
   left: 33%;
   top:0;
@@ -97,6 +100,9 @@ td{
 }
 tr:nth-child(even) {
   background-image: linear-gradient(to right,#abbaab,#eef2f3);
+}
+tr:nth-child(odd) {
+  background-image: linear-gradient(to right,#ADA996,#F2F2F2,#DBDBDB,#EAEAEA);
 }
 hr{
 border:1px solid black
