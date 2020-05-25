@@ -1,6 +1,9 @@
 body{
 background-image: url("paisley-background.jpg");
 }
+.h22{
+  font-family: calibri;
+}
 a{
 color:#240b36;
 }
@@ -57,7 +60,7 @@ h4{
 text-align:right;
 }
 h5{
-text-color:golden;
+color:golden;
 }
 h2{
 font-family:Calibri;
@@ -66,6 +69,7 @@ font-family:Calibri;
 font-family:Calibri;
 
 }
+
 .vl2{
 background-image: url("paisley-background.jpg");
 height: 1215px;
@@ -75,7 +79,7 @@ left:0;
 }
 .vl {
   border-left: 1px solid black;
-  height: 1240px;
+  height: 1400px;
   position:absolute;
   left: 33%;
   top:0;
